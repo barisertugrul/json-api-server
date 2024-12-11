@@ -1,0 +1,10 @@
+{
+        "schoolName": "School of Computing",
+        "schoolAddress": "1 Computing Drive, Singapore 117417",
+        "schoolContact": "tel:6516 2727",
+        "schoolEmail": "comp.nus@example.com",
+        "schoolWebsite": "https://www.comp.nus.edu.sg",
+        "schoolLogo": "https://www.comp.nus.edu.sg/images/logo.png",
+        "schoolMotto": "Innovate. Transform. Lead.",
+        "schoolEstablished": 1988
+}

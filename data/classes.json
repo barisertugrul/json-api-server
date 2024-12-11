@@ -1,0 +1,62 @@
+[
+    {
+      "id": 101,
+      "className": "Mathematics",
+      "teacher": {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "tel:123-456-7890",
+        "address": "123 Main Street, Springfield, IL 62701"
+      },
+      "_comment": " or \"teacherId\": 1 // Recommended "
+    },
+    {
+      "id": 102,
+      "className": "Science",
+      "teacher": {
+        "id": 2,
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "phone": "tel:123-456-7890",
+        "address": "123 Main Street, Springfield, IL 62701"
+      },
+        "_comment": " or \"teacherId\": 2 // Recommended "
+    },
+    {
+      "id": 103,
+      "className": "History",
+      "teacher": {
+        "id": 3,
+        "name": "Jim Doe",
+        "email": "jim.doe@example.com",
+        "phone": "tel:123-456-7890",
+        "address": "123 Main Street, Springfield, IL 62701"
+      },
+        "_comment": " or \"teacherId\": 3 // Recommended "
+    },
+    {
+      "id": 104,
+      "className": "English",
+        "teacher": {
+            "id": 4,
+            "name": "Jack Doe",
+            "email": "jack.doe@example.com",
+            "phone": "tel:123-456-7893",
+            "address": "123 Main Street, Springfield, IL 62704"
+        },
+        "_comment": " or \"teacherId\": 4 // Recommended "
+    },
+    {
+      "id": 105,
+      "className": "Art",
+        "teacher": {
+            "id": 5,
+            "name": "Jill Doe",
+            "email": "jill.doe@example.com",
+            "phone": "tel:123-456-7894",
+            "address": "123 Main Street, Springfield, IL 62705"
+        },
+        "_comment": " or \"teacherId\": 5 // Recommended "
+    }
+  ]

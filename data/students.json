@@ -1,0 +1,140 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "class": {
+        "id": 101,
+        "className": "Math"
+      },
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Lesson 1",
+          "description": "This is lesson 1",
+          "content": "This is the content of lesson 1"
+        },
+        {
+          "id": 2,
+          "title": "Lesson 2",
+          "description": "This is lesson 2",
+          "content": "This is the content of lesson 2"
+        },
+        {
+          "id": 3,
+          "title": "Lesson 3",
+          "description": "This is lesson 3",
+          "content": "This is the content of lesson 3"
+        }
+      ],
+      "_comment": " or \"classId\": 101, \"lessons\": [1, 2, 3] // Recommended "
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+        "class": {
+            "id": 102,
+            "className": "Science"
+        },
+        "lessons": [
+            {
+                "id": 4,
+                "title": "Lesson 4",
+                "description": "This is lesson 4",
+                "content": "This is the content of lesson 4"
+            },
+            {
+                "id": 5,
+                "title": "Lesson 5",
+                "description": "This is lesson 5",
+                "content": "This is the content of lesson 5"
+            }
+        ],
+        "_comment": " or \"classId\": 102, \"lessons\": [4, 5] // Recommended "
+    },
+    {
+      "id": 3,
+      "name": "Jim Doe",
+        "class": {
+            "id": 103,
+            "className": "History"
+        },
+        "lessons": [
+            {
+                "id": 6,
+                "title": "Lesson 6",
+                "description": "This is lesson 6",
+                "content": "This is the content of lesson 6"
+            },
+            {
+                "id": 7,
+                "title": "Lesson 7",
+                "description": "This is lesson 7",
+                "content": "This is the content of lesson 7"
+            }
+        ],
+        "_comment": " or \"classId\": 103, \"lessons\": [6, 7] // Recommended "
+    },
+    {
+      "id": 4,
+      "name": "Jill Doe",
+        "class": {
+            "id": 104,
+            "className": "English"
+        },
+        "lessons": [
+            {
+                "id": 8,
+                "title": "Lesson 8",
+                "description": "This is lesson 8",
+                "content": "This is the content of lesson 8"
+            },
+            {
+                "id": 9,
+                "title": "Lesson 9",
+                "description": "This is lesson 9",
+                "content": "This is the content of lesson 9"
+            }
+        ],
+        "_comment": " or \"classId\": 104, \"lessons\": [8, 9] // Recommended "
+    },
+    {
+      "id": 5,
+      "name": "Jack Doe",
+        "class": {
+            "id": 105,
+            "className": "Art"
+        },
+        "lessons": [
+            {
+                "id": 10,
+                "title": "Lesson 10",
+                "description": "This is lesson 10",
+                "content": "This is the content of lesson 10"
+            }
+        ],
+        "_comment": " or \"classId\": 105, \"lessons\": [10] // Recommended "
+    },
+    {
+      "id": 6,
+      "name": "Jenny Doe",
+        "class": {
+            "id": 106,
+            "className": "Music"
+        },
+        "lessons": [
+            {
+                "id": 11,
+                "title": "Lesson 11",
+                "description": "This is lesson 11",
+                "content": "This is the content of lesson 11"
+            },
+            {
+                "id": 12,
+                "title": "Lesson 12",
+                "description": "This is lesson 12",
+                "content": "This is the content of lesson 12"
+            }
+        ],
+        "_comment": " or \"classId\": 106, \"lessons\": [11, 12] // Recommended "
+    }
+  ]
